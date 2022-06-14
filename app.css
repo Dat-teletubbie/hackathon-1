@@ -1,0 +1,80 @@
+.parallex{
+    height: 500px;
+    width: 100%;
+    background-image: url(https://i.pinimg.com/originals/83/50/52/835052e1ffb36dbd84d3ade14acbb215.gif);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+    background-color:blanchedalmond;
+    
+    
+    
+
+.welcome{
+    display:flex;
+    flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 4  14rem;
+text-align: center;
+}
+
+.col{
+    border-radius: 95px;
+}
+
+.menu{
+    border-radius: 15%;
+}
+
+.card{
+    border-radius: 15%;
+    background-color: bisque;
+}
+
+.yum{
+    border-radius: 20%;
+    size: 50px;
+    flex-direction: column;
+    background-color: aquamarine;
+    width: 60px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.card h-100{
+    border-radius: 15%;
+    height: 20px;
+}
+
+.paralex{
+    background-image: url(https://thumbs.gfycat.com/DiscreteGoodnaturedJohndory-max-1mb.gif);
+ height:1000px;    background-repeat: no-repeat;
+ background-size: cover 
+ ;background-attachment: fixed
+ ;        
+}
+
+.dis{
+    background-color: black;
+    height: 350px;
+    width: 50px;
+    background-image: url(https://i.pinimg.com/originals/d5/ec/9c/d5ec9c42cade6c696ef244cc33efedd3.gif);
+}
+
+.card-img-top{
+    height: 500px;
+    border-radius: 10%;
+    width: 500px;
+}
+.about{
+    background-image: url(https://i.pinimg.com/originals/d5/ec/9c/d5ec9c42cade6c696ef244cc33efedd3.gif);
+    height: 850px;
+}
+.open{
+    background-image: url(https://media0.giphy.com/avatars/gifcalendar/a5CM8bx5vWk0.gif);
+    height: 630px;
+}
